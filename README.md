@@ -1,1 +1,2 @@
-#py-calculator
+# python Calculator
+- [x] Brushing up the concepts
